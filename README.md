@@ -9,7 +9,7 @@
 
 <h3 align="center">
     
-<img src = " https://tenor.com/by2Ld.gif " width="280" height = "200 ">
+<img src = " https://tenor.com/by2Ld.gif >
  
 </h3>
 
