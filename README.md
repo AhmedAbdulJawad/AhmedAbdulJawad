@@ -1,18 +1,13 @@
 <h2 align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAyOWE0MzFiZmU4Zjk2MmY1YzMxZTUwYWNkZjk1MDczMDA3ZDFlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l46CyumyGtD0IO6TC/giphy.gif"  width="280" height = "200 " >
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDAyOWE0MzFiZmU4Zjk2MmY1YzMxZTUwYWNkZjk1MDczMDA3ZDFlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l46CyumyGtD0IO6TC/giphy.gif"  width="280" height = "200 " 
+       "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUzZTU1MzQ3YTkyODIzZTZjMzg0MmU5YjEzZjhiMDE4ZWMzZWMwNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kH6CqYiquZawmU1HI6/giphy.gif"
+       >
 
   
   Welcome to Ahmed Abdul-Jawad profile!
   
 </h2>
-
-<h3 align="center">
-    
-<img src = " https://tenor.com/by2Ld.gif" >
- 
-</h3>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=DevOps+%26+Cloud+Enthusiast;Always+Learning+New+Things;Open+Source+Advocate+%F0%9F%A5%91"></a>
