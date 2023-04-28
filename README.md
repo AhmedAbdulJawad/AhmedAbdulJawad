@@ -5,7 +5,7 @@
   <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
   
-  Welcome to Ahmed Abdul-Jawad profile!
+  Welcome to Abdul-Jawad's GitHub!
   
 </h2>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
