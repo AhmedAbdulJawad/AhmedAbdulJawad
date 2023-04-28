@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM1NzAyY2Y5ZGJkYjBmMjk4YzMzNjdkMzJlYmIyYmEzMmViMjNiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l1J9s6ZMyda8gkZb2/giphy.gif"  width="280" height = "120 " >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM1NzAyY2Y5ZGJkYjBmMjk4YzMzNjdkMzJlYmIyYmEzMmViMjNiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l1J9s6ZMyda8gkZb2/giphy.gif"  width="280" height = "200 " >
 
   Welcome to Ahmed Abdul-Jawad profile!
   
