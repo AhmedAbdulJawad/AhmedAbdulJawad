@@ -1,6 +1,7 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM1NzAyY2Y5ZGJkYjBmMjk4YzMzNjdkMzJlYmIyYmEzMmViMjNiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/l1J9s6ZMyda8gkZb2/giphy.gif" width="28">
 <h2 align="center">
   Welcome to Ahmed Abdul-Jawad profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
 </h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
