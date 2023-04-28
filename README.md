@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to <a href=https://github.com/OmarKhalil401> My </a> profile!
+  Welcome to Ahmed Abdul-Jawad profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
