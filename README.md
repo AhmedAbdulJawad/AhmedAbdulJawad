@@ -1,6 +1,6 @@
 <h2 align="center">
   
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUzZTU1MzQ3YTkyODIzZTZjMzg0MmU5YjEzZjhiMDE4ZWMzZWMwNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kH6CqYiquZawmU1HI6/giphy.gif" width="150" height = "100 ">
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUzZTU1MzQ3YTkyODIzZTZjMzg0MmU5YjEzZjhiMDE4ZWMzZWMwNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kH6CqYiquZawmU1HI6/giphy.gif" width="100" height = "100 ">
   
   <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -11,7 +11,7 @@
 </h2>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=Android+Deveoper;Always+Learning+New+Things;Open+Source+Advocate+%F0%9F%A5%91"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=Android+Developer;Always+Learning+New+Things;Open+Source+Advocate+%F0%9F%A5%9;1Always+Learning+New+Things"></a>
 </p>
 
 <!-- Social icons section -->
