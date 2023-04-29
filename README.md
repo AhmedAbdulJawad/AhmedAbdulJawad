@@ -1,8 +1,10 @@
 <h2 align="center">
   
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWUzZTU1MzQ3YTkyODIzZTZjMzg0MmU5YjEzZjhiMDE4ZWMzZWMwNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kH6CqYiquZawmU1HI6/giphy.gif" width="100" height = "100 ">
+  <img src= " https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhjZWRlMjhhMmNhYjBmYWRkM2QzOTg3MjZmZjAzNzkyY2Q1ZGVmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hO8uTzEOefFh3Yv5gm/giphy.gif "  width="100" height = "100 ">
+
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY1MzBjODNiZWYyNzllNzk2YmJhODhlM2U5ZTJlNTQxNzY0YmQ3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/eUQe4sylGGrbRU5wvj/giphy.gif "  width="100" height = "100 ">
   
-  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY1MzBjODNiZWYyNzllNzk2YmJhODhlM2U5ZTJlNTQxNzY0YmQ3MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/eUQe4sylGGrbRU5wvj/giphy.gif" width="100" height = "100 " />
+ 
 
   
   Welcome to Abdul-Jawad's GitHub
