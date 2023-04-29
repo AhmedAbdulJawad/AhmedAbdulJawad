@@ -11,7 +11,7 @@
 </h2>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=Android+Developer;Always+Learning+New+Things;Open+Source+Advocate+%F0%9F%A5%9;1Always+Learning+New+Things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=Android+Developer;Always+Learning+New+Things;Java+Kotlin;Always+Learning+New+Things"></a>
 </p>
 
 <!-- Social icons section -->
